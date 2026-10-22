@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or report, please cite it as below."
+title: "Entanglement dynamics and quantum metrology in a two-qubit Heisenberg XXZ model"
+type: software
+authors:
+  - family-names: Nabil
+    given-names: Dhimen
+    affiliation: "Faculty of Sciences, Mohammed V University, Rabat, Morocco"
+license: MIT
