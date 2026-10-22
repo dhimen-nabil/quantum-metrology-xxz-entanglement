@@ -29,9 +29,9 @@ The Hamiltonian is $H = J(\sigma_x\sigma_x + \sigma_y\sigma_y + \Delta\,\sigma_z
 ### Main results
 
 * Without noise, for $V=S_x$: $F_Q^{(00)}=8\sin^2(\omega t/2)/\omega^2$ and $F_Q^{(\psi_+)}=2F_Q^{(00)}$.
-* No entanglement sudden death under local dephasing: $C^{(\psi_+)}(t)=e^{-2\gamma t}$, and $C^{(01)}(t)=\frac{4J}{\Omega}e^{-\gamma t}\lvert\sin\Omega t\rvert$ with $\Omega=\sqrt{16J^2-\gamma^2}$.
+* No entanglement sudden death under local dephasing: C(ψ+)(t) = exp(−2γt), and C(01)(t) = (4J/Ω) exp(−γt) |sin Ωt| with Ω = √(16J² − γ²).
 * Ratio of the maximal QFI of $\lvert\psi_+\rangle$ to that of $\lvert 00\rangle$: **2.00** ($\gamma=0$), **1.94** ($\gamma=0.1$), **1.83** ($\gamma=0.2$), **1.51** ($\gamma=0.5$).
-* At long times $\lvert 00\rangle$, $\lvert 01\rangle$ and $\lvert\psi_+\rangle$ reach the same QFI plateau (empirically $2/(\omega^2+\gamma^2)$), so the advantage is a finite-time effect.
+* At long times $\lvert 00\rangle$, $\lvert 01\rangle$ and $\lvert\psi_+\rangle$ reach the same QFI plateau (empirically 2/(ω² + γ²)), so the advantage is a finite-time effect.
 
 <p align="center">
   <img src="figures/nc_comparison.png" width="85%" alt="QFI of the product state and of the Bell state, and the advantage versus dephasing rate">
